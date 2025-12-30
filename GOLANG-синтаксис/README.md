@@ -1,6 +1,12 @@
-<div align="center">
-  <img src="../go1.jpg" width="120" />
-</div> # GOLANG — синтаксис
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+
+<img src="go1.jpg" width="90" />
+
+<h1 style="margin: 0;"># GOLANG — синтаксис</h1>
+
+</div>
+
+---
 
 ## Темы
 
