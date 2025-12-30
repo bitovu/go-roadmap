@@ -1,0 +1,6 @@
+theme: minima
+title: Go методичка
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
