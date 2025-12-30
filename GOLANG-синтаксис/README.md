@@ -1,8 +1,10 @@
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
 
-# GOLANG — синтаксис <div align="center">
-  <img src="../go1.jpg" width="120" />
+<img src="gopher.jpg" width="90" />
+
+<h1 style="margin: 0;">GOLANG синтаксис</h1>
+
 </div>
-
 ---
 
 ## Темы
