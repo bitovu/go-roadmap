@@ -1,4 +1,12 @@
+<div align="center">
+  <img src="gopher.png" width="120" />
+</div>
 
+<div align="center">
+
+# 📘 МЕТОДИЧКА ПО ГОШКЕ
+
+</div>
 # 📘 МЕТОДИЧКА ПО ГОШКЕ
 
 ## 📂 Разделы
