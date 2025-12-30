@@ -1,6 +1,6 @@
 theme: minima
-title: Go методичка
-markdown: kramdown
+title: ""
+description: ""
 
-kramdown:
-  syntax_highlighter: rouge
+include:
+  - assets
