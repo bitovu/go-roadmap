@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# Go методичка
-
 Методичка для подготовки к собеседованиям по Go.
 
-## Основы
-- [Примитивные типы данных](basics/primitives.md)
+## Roadmap
+- [Golang синтаксис](syntax/index.md)
+- [Golang под капотом](internals/index.md)
+- [Golang код](code/index.md)
+- [PostgreSQL](postgres/index.md)
