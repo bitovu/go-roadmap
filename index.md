@@ -6,6 +6,6 @@ layout: default
 
 ## Roadmap
 - [Golang синтаксис](syntax/index.md)
-- [Golang под капотом](internals/index.md)
-- [Golang код](code/index.md)
-- [PostgreSQL](postgres/index.md)
+- Golang под капотом
+- Golang код
+- PostgreSQL
