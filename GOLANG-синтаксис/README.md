@@ -1,9 +1,7 @@
 
-<div align="center">
+# GOLANG — синтаксис <div align="center">
   <img src="../go1.jpg" width="120" />
 </div>
-
-# GOLANG — синтаксис
 
 ---
 
