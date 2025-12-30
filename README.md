@@ -4,7 +4,6 @@
 <div align="center">
   <img src="gopher.png" width="120" />
 </div>
-</div>
 
 ---
 
