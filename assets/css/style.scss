@@ -1,16 +1,16 @@
-/* Убираем всю шапку */
+/* Убираем верхнюю шапку */
 .site-header,
 .site-nav {
-  display: none;
+  display: none !important;
 }
 
 /* Убираем футер */
 .site-footer {
-  display: none;
+  display: none !important;
 }
 
-/* Убираем лишние отступы сверху и снизу */
+/* Убираем лишние отступы */
 .page-content {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
 }
