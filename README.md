@@ -13,3 +13,6 @@
 - 📘 **[GOLANG — синтаксис](GOLANG-синтаксис/)**
 
 ---
+<div align="center">
+  <img src="i.png" width="300">
+</div>
