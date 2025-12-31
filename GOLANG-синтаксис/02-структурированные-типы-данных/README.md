@@ -94,10 +94,10 @@ m := map[string]int{
 
 * Обеспечивают синхронизацию выполнения
 
-  ``
-  ch := make(chan int)
-  ch <- 10x := <-ch
-``
+  ``ch := make(chan int)
+  ch <- 10x := <-ch``
+
+  
 ---
 
 ## ⭕ Zero Values (Значения по умолчанию)
