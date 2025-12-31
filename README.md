@@ -14,5 +14,5 @@
 
 ---
 <div align="center">
-  <img src="i.png" width="300">
+  <img src="i.png" width="100%">
 </div>
