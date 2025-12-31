@@ -15,8 +15,8 @@
 - [Циклы](03-циклы)
 - [const / var](04-const-var)
 - [Указатели](05-Указатели)
-- [`if`, `switch`, `make`](06-if-switch-make)
-- [Func](07-interface)
+- [Конструкции if,switch,make](06-if-switch-make)
+- [Func](07-func)
 - [Struct](08-Struct)
 - [Interface](09-Interface)
 
