@@ -2,6 +2,7 @@
   <h1 style="margin: 0;">GOLANG — синтаксис</h1>
   <img src="../assets/images/go1.jpg" width="80" />
 </div>
+
 ---
 
 ## Темы
