@@ -1,9 +1,6 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <h1 style="margin: 0;">GOLANG под капотом</h1>
-  <img src="../assets/images/go1.jpg" width="80" />
-</div>
-
----
+<table>
+  <tr>
+    <td valign="top">
 
 ## Темы
 
@@ -17,7 +14,9 @@
 8. [Garbage Collector](08-gc/)
 9. [Scheduler Go](09-scheduler/)
 
----
-
-⬅️ [домой,уолтер](../)
-
+    </td>
+    <td valign="top" align="center">
+      <img src="assets/images/gopodkapotom.jpg" width="220" />
+    </td>
+  </tr>
+</table>
