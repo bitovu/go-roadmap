@@ -1,4 +1,4 @@
-<img src="../assets/images/pc.png" width="100%">
+<img src="../assets/images/ppc.png" width="100%">
 
 ---
 
