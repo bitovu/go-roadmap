@@ -1,9 +1,8 @@
-<table align="center" cellpadding="10">
-  <tr>
-    <td><h1>GOLANG — синтаксис</h1></td>
-    <td><img src="../assets/images/go1.jpg" width="80" /></td>
-  </tr>
-</table>
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+  <h1 style="margin: 0;">GOLANG — синтаксис</h1>
+  <td><img src="../assets/images/go1.jpg" width="80" /></td>
+</div>
 
 ---
 
