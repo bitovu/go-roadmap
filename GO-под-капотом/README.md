@@ -1,5 +1,6 @@
 <img src="../assets/images/pc.png" width="100%">
 
+---
 
 1. [Slice под капотом](01-slice/)
 2. [Map под капотом](02-map/)
