@@ -16,7 +16,7 @@
 
     </td>
     <td valign="top" align="center">
-      <img src="assets/images/gopodkapotom.png" width="220" />
+      <img src="assets/images/gopodkapotom.png" width="100%" />
     </td>
   </tr>
 </table>
