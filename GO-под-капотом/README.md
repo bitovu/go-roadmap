@@ -11,3 +11,6 @@
 7. [Context](07-context/)
 8. [Garbage Collector](08-gc/)
 9. [Scheduler Go](09-scheduler/)
+
+---
+⬅️ [домой, уолтер](../)
