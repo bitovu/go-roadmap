@@ -1,22 +1,19 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <h1 style="margin: 0;">GOLANG — синтаксис</h1>
-  <img src="../assets/images/go1.jpg" width="80" />
+  <h1 style="margin: 0;">GOLANG под капотом</h1>
+  <img src="../assets/images/gopodkapotom.png" width="80">
 </div>
-
----
 
 ## Темы
 
-- [Примитивные типы данных](01-примитивные-типы-данных)
-- [Структурированные типы данных](02-структурированные-типы-данных)
-- [Циклы](03-циклы)
-- [const / var](04-const-var)
-- [Указатели](05-Указатели)
-- [Конструкции if,switch,make](06-ifswitchmake)
-- [Func](07-func)
-- [Struct](08-Struct)
-- [Interface](09-Interface)
+1. [Slice под капотом](01-slice/)
+2. [Map под капотом](02-map/)
+3. [Каналы](03-channels/)
+4. [Интерфейсы](04-interfaces/)
+5. [Примитивы синхронизации](05-sync/)
+6. [Goroutine](06-goroutines/)
+7. [Context](07-context/)
+8. [Garbage Collector](08-gc/)
+9. [Scheduler Go](09-scheduler/)
 
 ---
-
-⬅️ [домой,уолтер](../)
+⬅️ [домой, уолтер](../)
