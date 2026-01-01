@@ -13,11 +13,11 @@
 - [Структурированные типы данных](02-структурированные-типы-данных/)
 - [Циклы](03-циклы/)
 - [const / var](04-const-var/)
-- [Указатели](05-указатели/)
-- [if / switch / make](06-if-switch-make/)
+- [Указатели](05-Указатели/)
+- [if / switch / make](06-ifswitchmake/)
 - [Func](07-func/)
-- [Struct](08-struct/)
-- [Interface](09-interface/)
+- [Struct](08-Struct/)
+- [Interface](09-Interface/)
 
 ---
 
