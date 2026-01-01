@@ -1,6 +1,4 @@
-<table width="100%" cellpadding="10">
-  <tr>
-    <td valign="top">
+<img src="../assets/images/gopodkapotom.png" width="120" align="right" style="margin-left: 24px;">
 
 ## Темы
 
@@ -13,10 +11,3 @@
 7. [Context](07-context/)
 8. [Garbage Collector](08-gc/)
 9. [Scheduler Go](09-scheduler/)
-
-    </td>
-    <td valign="top" align="center">
-      <img src="../assets/images/gopodkapotom.png" width="120">
-    </td>
-  </tr>
-</table>
