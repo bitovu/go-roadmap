@@ -1,4 +1,4 @@
-<img src="../assets/images/pc.png" width="1200">
+<img src="../assets/images/pc.png" width="100%">
 
 
 1. [Slice под капотом](01-slice/)
