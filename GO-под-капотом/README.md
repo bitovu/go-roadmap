@@ -1,6 +1,5 @@
-<img src="../assets/images/gopodkapotom.png" width="120" align="right" style="margin-left: 24px;">
+<img src="../assets/images/pc.png" width="1200">
 
-## Темы
 
 1. [Slice под капотом](01-slice/)
 2. [Map под капотом](02-map/)
