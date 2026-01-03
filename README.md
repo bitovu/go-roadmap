@@ -17,5 +17,5 @@
 
 ---
 <div align="center">
-  <img src="i.png" width="100%">
+  <img src="telepuz.png" width="100%">
 </div>
