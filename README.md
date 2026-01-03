@@ -17,5 +17,5 @@
 
 ---
 <div align="center">
-  <img src="assets/images/telepuz.png" width="100%">
+  <img src="assets/images/Telepuziki.png" width="100%">
 </div>
