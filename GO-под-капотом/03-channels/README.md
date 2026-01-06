@@ -15,6 +15,8 @@
 Ключевая идея Go:
 
 > *Don’t communicate by sharing memory; share memory by communicating.*
+
+
 > *Не общайтесь, делясь памятью; делитесь памятью, общаясь.*
 
 
