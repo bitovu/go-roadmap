@@ -5,7 +5,8 @@
 
 ## Список паттернов
 
-- [Pipeline](pipeline.md)
+- [Fan-in](fanin.md)
 - [Fan-out / Fan-in](fan-out-fan-in.md)
 - [Worker Pool](worker-pool.md)
 - [Fan-in](fanin.md)
+- [Pipeline](pipeline.md)
