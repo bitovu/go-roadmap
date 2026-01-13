@@ -71,6 +71,6 @@ func stage(in <-chan int) <-chan int {
 
 - закрытие входного канала
 
--забыли close(out)
+- забыли close(out)
 
 - запуск нескольких goroutine внутри одного этапа без надобности
