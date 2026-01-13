@@ -8,4 +8,4 @@
 - [Pipeline](pipeline.md)
 - [Fan-out / Fan-in](fan-out-fan-in.md)
 - [Worker Pool](worker-pool.md)
-- [Select](select.md)
+- [Fan-in](fanin.md)
