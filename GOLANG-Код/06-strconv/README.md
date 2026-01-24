@@ -15,6 +15,15 @@
 * конфиги
 * env-переменные
 
+--- 
+
+## Короткий конспект
+
+* `Atoi` — string → int
+* `ParseInt` — string → int64
+* `ParseFloat` — string → float
+* `Itoa` — int → string
+
 ---
 
 ## 2. Строка → int
@@ -92,14 +101,6 @@ s3 := strconv.FormatFloat(3.14, 'f', 2, 64)
 
 ---
 
-## 9. Короткий конспект
-
-* `Atoi` — string → int
-* `ParseInt` — string → int64
-* `ParseFloat` — string → float
-* `Itoa` — int → string
-
----
 
 ## 10. Главная мысль
 
