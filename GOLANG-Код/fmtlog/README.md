@@ -149,6 +149,3 @@ log.SetFlags(log.LstdFlags | log.Lshortfile)
 > **fmt — для вывода, log — для жизни сервиса.**
 
 ---
-
-
-* `sync`
