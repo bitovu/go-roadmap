@@ -1,3 +1,13 @@
+<div align="center" style="margin-top: 40px;">
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+  <h1 style="margin: 0;">гарбаге коллектор</h1>
+  <img src="assets/images/gcgo.png" width="80" />
+</div>
+
+
+</div>
+
 
 
 ## 1. Зачем нужен GC
